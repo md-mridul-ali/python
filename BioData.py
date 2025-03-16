@@ -1,0 +1,6 @@
+print("Name: MD. Mridul Ali")
+print("Date of birth: 05-02-2002")
+print("Address: Natore, Rajshahi")
+print("Contact Number: 01315238971")
+print("Education: BSc in CSE")
+print("CGPA: 3.78")
